@@ -24,3 +24,6 @@ you'll have to go back to OwnerRepository to change its data-type and then the I
 This is how you can understand the tight coupling.
 
 Now you need to implement loose coupling using spring boot.
+
+for Loose coupling we are using springboot...
+https://github.com/avinashmth898/coupling
